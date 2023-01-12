@@ -1,0 +1,2 @@
+1) npm install ws
+2) Open 2-client.html in the browser
